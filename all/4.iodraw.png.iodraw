@@ -59,11 +59,14 @@
         <mxCell id="bVpQa7GHOJj-AlgUEXRF-15" value="Point Cloud" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-0" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="285" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-0" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
+          <mxGeometry x="-15" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
+          <mxGeometry x="15" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
