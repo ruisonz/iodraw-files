@@ -39,7 +39,7 @@
           <mxGeometry x="20" y="150" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z1MYfqiNGP4Lj2o3up_o-3" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="120" width="120" height="120" as="geometry" />
+          <mxGeometry x="120" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bVpQa7GHOJj-AlgUEXRF-0" value="Backbone Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;verticalAlign=top;" parent="Z1MYfqiNGP4Lj2o3up_o-3" vertex="1">
           <mxGeometry x="21.81818181818192" width="98.18181818181807" height="119.99999999999999" as="geometry" />
@@ -47,7 +47,7 @@
         <mxCell id="Z1MYfqiNGP4Lj2o3up_o-2" value="" style="group" vertex="1" connectable="0" parent="Z1MYfqiNGP4Lj2o3up_o-3">
           <mxGeometry x="38.181818181818265" y="43.63636363636363" width="65.45454545454538" height="65.45454545454545" as="geometry" />
         </mxCell>
-        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-0" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
+        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-0" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#E1D5E7;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
           <mxGeometry x="-16.363636363636346" y="16.363636363636363" width="65.45454545454538" height="32.72727272727273" as="geometry" />
         </mxCell>
         <mxCell id="Z1MYfqiNGP4Lj2o3up_o-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
