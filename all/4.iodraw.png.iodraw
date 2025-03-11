@@ -50,7 +50,7 @@
         <mxCell id="Z1MYfqiNGP4Lj2o3up_o-0" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#E1D5E7;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
           <mxGeometry x="-16.363636363636346" y="16.363636363636363" width="65.45454545454538" height="32.72727272727273" as="geometry" />
         </mxCell>
-        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
+        <mxCell id="Z1MYfqiNGP4Lj2o3up_o-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#E6D0DE;" vertex="1" parent="Z1MYfqiNGP4Lj2o3up_o-2">
           <mxGeometry x="16.363636363636346" y="16.363636363636363" width="65.45454545454538" height="32.72727272727273" as="geometry" />
         </mxCell>
       </root>
