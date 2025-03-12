@@ -80,7 +80,7 @@
           <mxGeometry x="270" y="210" width="59.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rCHRojTluDZ5POFj6Q34-7" value="Voxelization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="254.63" y="268" width="90" height="30" as="geometry" />
+          <mxGeometry x="254.63" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
