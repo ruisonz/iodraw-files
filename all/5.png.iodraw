@@ -59,7 +59,7 @@
           <mxGeometry x="442" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-34" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="507.7" y="799" width="182.3" height="52.3" as="geometry" />
+          <mxGeometry x="710" y="790" width="182.3" height="52.3" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-36" value="Self-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="720" width="160" height="210" as="geometry" />
@@ -195,6 +195,12 @@
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O95V-cmvPX95n1jrmwts-71" target="O95V-cmvPX95n1jrmwts-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O95V-cmvPX95n1jrmwts-91" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="800" width="184" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O95V-cmvPX95n1jrmwts-92" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="462" y="820" width="184" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
