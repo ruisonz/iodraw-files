@@ -159,11 +159,6 @@
             <mxPoint x="508.35" y="877.312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="O95V-cmvPX95n1jrmwts-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="533.9999999999998" y="706" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-91" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="800" width="184" height="50" as="geometry" />
         </mxCell>
@@ -171,7 +166,7 @@
           <mxGeometry x="560" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-94" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="650" width="160" height="60" as="geometry" />
+          <mxGeometry x="454" y="660" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-95" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" vertex="1" connectable="0" parent="O95V-cmvPX95n1jrmwts-94">
           <mxGeometry width="160" height="30" as="geometry" />
