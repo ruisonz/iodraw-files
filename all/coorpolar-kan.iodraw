@@ -25,8 +25,8 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-25" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-26">
           <mxGeometry y="30" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-27" value="Voxel Point Cloud Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="40" y="390" width="170" height="30" as="geometry" />
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-27" value="Voxel Point Cloud Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="65" y="375" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
