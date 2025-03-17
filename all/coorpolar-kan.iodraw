@@ -99,7 +99,12 @@
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NrgXej5EPIuT5_W5SCZd-109">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90.00000000000006" y="380" as="targetPoint" />
+            <mxPoint x="90" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="264" y="310" />
+              <mxPoint x="91" y="310" />
+              <mxPoint x="91" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-109" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=0.3;" vertex="1" parent="1">
