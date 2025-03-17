@@ -31,8 +31,8 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-27" value="Voxel Point Cloud Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=4;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-28">
           <mxGeometry x="-25" y="25" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-29" value="Cart.Coor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="85" y="344.39" width="50" height="20" as="geometry" />
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-29" value="Cart.Coor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="100" y="344.39" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
