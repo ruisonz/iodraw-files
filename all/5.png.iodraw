@@ -163,39 +163,6 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-36" value="Self-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="720" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-37" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="810" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-38" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;" vertex="1" connectable="0" parent="O95V-cmvPX95n1jrmwts-37">
-          <mxGeometry x="15" y="15" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-39" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-38">
-          <mxGeometry width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-40" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="O95V-cmvPX95n1jrmwts-38">
-          <mxGeometry x="9" y="8" width="142.5" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-40">
-          <mxGeometry x="64" y="-64" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-40">
-          <mxGeometry x="64" y="-38" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-40">
-          <mxGeometry x="64" y="-13" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-44" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F8CECC;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-40">
-          <mxGeometry x="64" y="13" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCFF;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-40">
-          <mxGeometry x="64" y="38" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-40">
-          <mxGeometry x="64" y="64" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-47" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-37">
-          <mxGeometry x="16" y="15" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
