@@ -25,11 +25,6 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-27" value="Voxel Point Cloud Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=4;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-28">
           <mxGeometry x="-25" y="25" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NrgXej5EPIuT5_W5SCZd-28" source="NrgXej5EPIuT5_W5SCZd-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.1;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-28">
           <mxGeometry x="5" y="6.99" width="25" height="56.01" as="geometry" />
         </mxCell>
