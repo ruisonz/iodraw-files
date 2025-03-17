@@ -91,6 +91,12 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-60" value="Update Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="O95V-cmvPX95n1jrmwts-50">
           <mxGeometry x="21" y="15" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="O95V-cmvPX95n1jrmwts-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="O95V-cmvPX95n1jrmwts-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37" y="29.940000000000055" as="sourcePoint" />
+            <mxPoint x="56" y="29.940000000000055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-61" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454" y="660" width="160" height="40" as="geometry" />
         </mxCell>
@@ -189,9 +195,6 @@
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-91" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="800" width="184" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O95V-cmvPX95n1jrmwts-92" target="O95V-cmvPX95n1jrmwts-60">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-92" value="Slef-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="800" width="184" height="50" as="geometry" />
