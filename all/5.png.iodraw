@@ -91,8 +91,8 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="770" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="878" width="50" height="30" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-2" value="Feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="878" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
