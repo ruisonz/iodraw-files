@@ -57,6 +57,30 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.3;endSize=2;" edge="1" parent="1" source="NrgXej5EPIuT5_W5SCZd-38" target="NrgXej5EPIuT5_W5SCZd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="350" width="35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-47" value="" style="group" vertex="1" connectable="0" parent="NrgXej5EPIuT5_W5SCZd-46">
+          <mxGeometry x="15" y="15" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-48" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-47">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-49" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-47">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-50" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-47">
+          <mxGeometry y="20" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-51" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-47">
+          <mxGeometry y="30" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-52" value="Voxel Point Cloud Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=4;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-46">
+          <mxGeometry x="-25" y="25" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.1;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-46">
+          <mxGeometry x="5" y="6.99" width="25" height="56.01" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
