@@ -193,7 +193,7 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=27.84666666666667;exitDy=43.39285714285714;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O95V-cmvPX95n1jrmwts-1" target="O95V-cmvPX95n1jrmwts-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-87" value="in_proj" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="O95V-cmvPX95n1jrmwts-87" value="&lt;font color=&quot;#a9c4eb&quot;&gt;in_proj&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441.77" y="855" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
