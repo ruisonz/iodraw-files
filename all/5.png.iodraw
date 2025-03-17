@@ -95,7 +95,7 @@
           <mxGeometry x="10" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-2" value="Feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="O95V-cmvPX95n1jrmwts-3">
-          <mxGeometry y="100" width="60" height="30" as="geometry" />
+          <mxGeometry y="102" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-6" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="640" width="90" height="120" as="geometry" />
