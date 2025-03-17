@@ -43,12 +43,6 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-33" value="Polar.Coor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=4;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-35">
           <mxGeometry y="22.029999999999973" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="410" as="sourcePoint" />
-            <mxPoint x="200" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
