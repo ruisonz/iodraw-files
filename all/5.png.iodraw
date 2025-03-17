@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="780" width="160" height="90" as="geometry" />
+          <mxGeometry x="454" y="796" width="168" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-34" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="720" width="160" height="210" as="geometry" />
