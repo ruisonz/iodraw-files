@@ -46,7 +46,7 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-33" value="Polar.Coor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=4;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-35">
           <mxGeometry y="22.029999999999973" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.3;endSize=3;startSize=5;" edge="1" parent="1" source="NrgXej5EPIuT5_W5SCZd-38" target="NrgXej5EPIuT5_W5SCZd-5">
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.3;endSize=2;startSize=5;" edge="1" parent="1" source="NrgXej5EPIuT5_W5SCZd-38" target="NrgXej5EPIuT5_W5SCZd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
