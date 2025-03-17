@@ -73,7 +73,7 @@
           <mxGeometry width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="330" width="25" height="40" as="geometry" />
+          <mxGeometry x="160" y="390" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-75" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-180;direction=west;flipH=1;strokeWidth=0;size=20;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-74">
           <mxGeometry y="15" width="25" height="25" as="geometry" />
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-78" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-180;direction=west;flipH=1;strokeWidth=0;size=20;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-74">
           <mxGeometry width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-79" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="348" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
