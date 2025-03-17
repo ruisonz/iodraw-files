@@ -133,8 +133,8 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="O95V-cmvPX95n1jrmwts-6">
           <mxGeometry x="65" y="62" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="750" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
