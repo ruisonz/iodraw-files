@@ -46,11 +46,13 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-33" value="Polar.Coor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=4;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-35">
           <mxGeometry y="22.029999999999973" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrgXej5EPIuT5_W5SCZd-38" target="NrgXej5EPIuT5_W5SCZd-5">
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="77.69" y="374.9950000000001" as="sourcePoint" />
+            <mxPoint x="139.95" y="344.3949999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="340" />
-              <mxPoint x="142" y="340" />
+              <mxPoint x="87.69" y="340" />
+              <mxPoint x="139.69" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
