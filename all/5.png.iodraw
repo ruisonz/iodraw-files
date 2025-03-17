@@ -186,11 +186,6 @@
             <mxPoint x="89.89857142857159" y="38.82553571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O95V-cmvPX95n1jrmwts-49">
-          <mxGeometry x="0.542" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-80" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="830" width="105" height="107" as="geometry" />
         </mxCell>
