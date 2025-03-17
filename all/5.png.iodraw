@@ -62,7 +62,7 @@
           <mxGeometry x="442" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-50" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="795" width="160" height="60" as="geometry" />
+          <mxGeometry x="650" y="795" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-51" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;" vertex="1" connectable="0" parent="O95V-cmvPX95n1jrmwts-50">
           <mxGeometry x="15" y="15" width="160" height="30" as="geometry" />
@@ -161,10 +161,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-91" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="800" width="184" height="50" as="geometry" />
+          <mxGeometry x="506" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-92" value="Slef-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="800" width="184" height="50" as="geometry" />
+          <mxGeometry x="570" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-94" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354.63" y="673" width="160" height="60" as="geometry" />
