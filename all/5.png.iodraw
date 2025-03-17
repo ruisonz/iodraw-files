@@ -161,7 +161,7 @@
           <mxGeometry x="560" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-94" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="454" y="673" width="160" height="60" as="geometry" />
+          <mxGeometry x="350" y="673" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-95" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" vertex="1" connectable="0" parent="O95V-cmvPX95n1jrmwts-94">
           <mxGeometry width="160" height="30" as="geometry" />
@@ -192,12 +192,6 @@
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-104" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="O95V-cmvPX95n1jrmwts-94">
           <mxGeometry x="25" y="24" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="686" y="660" as="sourcePoint" />
-            <mxPoint x="636" y="710" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
