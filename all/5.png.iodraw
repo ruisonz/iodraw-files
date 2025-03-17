@@ -62,7 +62,7 @@
           <mxGeometry x="127.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="bVpQa7GHOJj-AlgUEXRF-28" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rCHRojTluDZ5POFj6Q34-0" vertex="1">
-          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+          <mxGeometry x="25" y="24" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rCHRojTluDZ5POFj6Q34-3" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="100" y="180" width="150" height="160" as="geometry" />
