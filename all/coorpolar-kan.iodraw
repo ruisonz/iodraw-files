@@ -108,11 +108,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrgXej5EPIuT5_W5SCZd-109" target="NrgXej5EPIuT5_W5SCZd-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-109" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=0.3;" vertex="1" parent="1">
           <mxGeometry x="260" y="371" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-115" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="350" width="35" height="70" as="geometry" />
+          <mxGeometry x="300" y="340" width="35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-116" value="" style="group" vertex="1" connectable="0" parent="NrgXej5EPIuT5_W5SCZd-115">
           <mxGeometry x="15" y="15" width="10" height="40" as="geometry" />
