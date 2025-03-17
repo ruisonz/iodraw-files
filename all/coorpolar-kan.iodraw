@@ -137,10 +137,10 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-118" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#A9C4EB;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-116">
           <mxGeometry y="10" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-119" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-116">
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-119" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#A9C4EB;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-116">
           <mxGeometry y="20" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NrgXej5EPIuT5_W5SCZd-120" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#E6E6E6;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-116">
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-120" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;container=0;strokeWidth=0;fillStyle=solid;fillColor=#A9C4EB;spacing=0;" vertex="1" parent="NrgXej5EPIuT5_W5SCZd-116">
           <mxGeometry y="30" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-121" value="&amp;nbsp;KAN Position Embedding" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=4;" vertex="1" parent="1">
