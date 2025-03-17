@@ -160,8 +160,8 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-34" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="720" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-36" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="730" width="160" height="210" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-36" value="Self-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="720" width="160" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
