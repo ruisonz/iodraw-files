@@ -158,13 +158,13 @@
           <mxGeometry x="50.31249999999999" y="40.125" width="87.5" height="19.107142857142858" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-6" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404.29" y="736.6" width="70.71428571428571" height="96" as="geometry" />
+          <mxGeometry x="399.27000000000004" y="738.6" width="70.71428571428571" height="96" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-5" value="Mask" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="O95V-cmvPX95n1jrmwts-6">
           <mxGeometry x="15.714285714285714" y="65.60000000000001" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-77" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410.00142857142856" y="731" width="78.57142857142857" height="80" as="geometry" />
+          <mxGeometry x="399.43142857142857" y="733" width="78.57142857142857" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="O95V-cmvPX95n1jrmwts-77">
           <mxGeometry width="77.75842044134728" height="77.75842044134728" as="geometry" />
