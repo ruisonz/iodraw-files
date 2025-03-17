@@ -13,6 +13,9 @@
         <mxCell id="NrgXej5EPIuT5_W5SCZd-8" value="Voxelized features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="50" y="380" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="NrgXej5EPIuT5_W5SCZd-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
