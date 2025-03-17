@@ -112,10 +112,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-109" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=0.3;" vertex="1" parent="1">
-          <mxGeometry x="260" y="371" width="8" height="8" as="geometry" />
+          <mxGeometry x="250" y="371" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-115" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="340" width="35" height="70" as="geometry" />
+          <mxGeometry x="280" y="340" width="35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NrgXej5EPIuT5_W5SCZd-116" value="" style="group" vertex="1" connectable="0" parent="NrgXej5EPIuT5_W5SCZd-115">
           <mxGeometry x="15" y="15" width="10" height="40" as="geometry" />
