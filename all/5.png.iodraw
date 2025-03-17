@@ -134,7 +134,10 @@
           <mxGeometry x="65" y="62" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="750" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="780" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O95V-cmvPX95n1jrmwts-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=65;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O95V-cmvPX95n1jrmwts-1" target="O95V-cmvPX95n1jrmwts-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
