@@ -193,8 +193,8 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-59" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;" vertex="1" parent="O95V-cmvPX95n1jrmwts-53">
           <mxGeometry x="127.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-60" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="O95V-cmvPX95n1jrmwts-50">
-          <mxGeometry x="25" y="24" width="110" height="30" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-60" value="Update Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="O95V-cmvPX95n1jrmwts-50">
+          <mxGeometry x="30" y="24" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
