@@ -134,15 +134,7 @@
           <mxGeometry x="65" y="62" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="720" width="160" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bVpQa7GHOJj-AlgUEXRF-17" target="O95V-cmvPX95n1jrmwts-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="925" />
-              <mxPoint x="500" y="825" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="655" y="710" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
