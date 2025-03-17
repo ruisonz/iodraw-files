@@ -59,7 +59,7 @@
           <mxGeometry x="442" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-34" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="794.6" width="160" height="40" as="geometry" />
+          <mxGeometry x="509.6" y="797.3" width="182.3" height="52.3" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-36" value="Self-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="720" width="160" height="210" as="geometry" />
