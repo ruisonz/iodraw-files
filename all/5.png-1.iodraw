@@ -285,16 +285,12 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-147" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="O95V-cmvPX95n1jrmwts-148" vertex="1">
           <mxGeometry x="29" width="107" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dPFFuL_S_MPaoeYrQcPf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPFFuL_S_MPaoeYrQcPf-0" target="bVpQa7GHOJj-AlgUEXRF-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dPFFuL_S_MPaoeYrQcPf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bVpQa7GHOJj-AlgUEXRF-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919" y="254.5000000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dPFFuL_S_MPaoeYrQcPf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPFFuL_S_MPaoeYrQcPf-0" target="bVpQa7GHOJj-AlgUEXRF-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dPFFuL_S_MPaoeYrQcPf-0" value="Panoramic Segmentation Head" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="781" y="133" width="138" height="243" as="geometry" />
-        </mxCell>
-        <mxCell id="dPFFuL_S_MPaoeYrQcPf-7" value="&lt;div&gt;Mamba-Transformer&lt;/div&gt;&lt;div&gt;Decoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;verticalAlign=middle;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dPFFuL_S_MPaoeYrQcPf-7" value="Panoramic Segmentation Head" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;verticalAlign=middle;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="586" y="230.87" width="234" height="50.25" as="geometry" />
         </mxCell>
       </root>
