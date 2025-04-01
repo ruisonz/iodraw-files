@@ -53,9 +53,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O95V-cmvPX95n1jrmwts-16" target="O95V-cmvPX95n1jrmwts-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="442" y="800" width="184" height="50" as="geometry" />
         </mxCell>
@@ -159,12 +156,6 @@
             <mxPoint x="450.99833333333333" y="876.3928571428571" as="sourcePoint" />
             <mxPoint x="508.35" y="877.312" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O95V-cmvPX95n1jrmwts-91" target="O95V-cmvPX95n1jrmwts-92" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-91" value="Mamba block" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="506" y="800" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-92" value="Slef-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="800" width="184" height="50" as="geometry" />
@@ -284,7 +275,7 @@
           <mxGeometry x="506" y="997" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h3TKmUuPFNpn1jdFMTUx-1" value="Slef-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="810" width="184" height="50" as="geometry" />
+          <mxGeometry x="570" y="999" width="184" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
