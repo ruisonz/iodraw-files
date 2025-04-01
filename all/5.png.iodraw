@@ -278,7 +278,7 @@
           <mxGeometry x="382.29" y="760.5" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="h3TKmUuPFNpn1jdFMTUx-16" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="506" y="720" width="160" height="60" as="geometry" />
+          <mxGeometry x="496" y="947" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3TKmUuPFNpn1jdFMTUx-17" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" vertex="1" connectable="0" parent="h3TKmUuPFNpn1jdFMTUx-16">
           <mxGeometry width="160" height="30" as="geometry" />
@@ -309,15 +309,6 @@
         </mxCell>
         <mxCell id="h3TKmUuPFNpn1jdFMTUx-26" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="h3TKmUuPFNpn1jdFMTUx-16">
           <mxGeometry x="25" y="24" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h3TKmUuPFNpn1jdFMTUx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h3TKmUuPFNpn1jdFMTUx-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502" y="810" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="583" y="789" />
-              <mxPoint x="502" y="789" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
