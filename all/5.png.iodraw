@@ -143,7 +143,7 @@
           <mxGeometry x="13.921666666666667" width="27.846666666666668" height="66.78571428571428" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Feature&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="O95V-cmvPX95n1jrmwts-3" vertex="1">
-          <mxGeometry x="13.77" y="60.92857142857142" width="49" height="26" as="geometry" />
+          <mxGeometry x="11.77" y="59.92857142857142" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-92" value="Slef-atten + FFN" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="417" y="861" width="150" height="50" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-103" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;rotation=0;" parent="O95V-cmvPX95n1jrmwts-97" vertex="1">
           <mxGeometry x="128" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-104" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="O95V-cmvPX95n1jrmwts-94" vertex="1">
-          <mxGeometry x="25" y="24" width="110" height="30" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Learnable Query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="O95V-cmvPX95n1jrmwts-94" vertex="1">
+          <mxGeometry x="34" y="26" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-127" value="Output" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="881.5" y="702.5" width="100" height="27" as="geometry" />
