@@ -178,8 +178,8 @@
         <mxCell id="O95V-cmvPX95n1jrmwts-104" value="Learnable Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="O95V-cmvPX95n1jrmwts-94" vertex="1">
           <mxGeometry x="25" y="24" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-127" value="Output" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;direction=east;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="514" y="1035" width="100" height="27" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-127" value="Output" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;direction=east;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="522" y="1005" width="100" height="27" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-132" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="429" y="139" width="161" height="109" as="geometry" />
