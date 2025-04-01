@@ -53,8 +53,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="461.5" y="780.5" width="145" height="50" as="geometry" />
+        <mxCell id="O95V-cmvPX95n1jrmwts-16" value="Masked Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="417" y="800" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-50" value="" style="group;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="646" y="795" width="160" height="60" as="geometry" />
