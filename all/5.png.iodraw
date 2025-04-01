@@ -100,14 +100,14 @@
             <mxPoint x="56" y="29.940000000000055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O95V-cmvPX95n1jrmwts-77" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+        <mxCell id="O95V-cmvPX95n1jrmwts-77" value="" style="group;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="346" y="716" width="64.57" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="O95V-cmvPX95n1jrmwts-77" vertex="1">
           <mxGeometry width="63.9018699186992" height="63.9018699186992" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" parent="O95V-cmvPX95n1jrmwts-77" vertex="1">
-          <mxGeometry x="5.1655999999999995" y="4.62" width="12.780373983739839" height="12.780373983739839" as="geometry" />
+          <mxGeometry x="15" y="14.45" width="2.95" height="2.95" as="geometry" />
         </mxCell>
         <mxCell id="O95V-cmvPX95n1jrmwts-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="O95V-cmvPX95n1jrmwts-77" vertex="1">
           <mxGeometry x="25.828" y="4.62" width="12.780373983739839" height="12.780373983739839" as="geometry" />
